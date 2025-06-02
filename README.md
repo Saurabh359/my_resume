@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Saurabh Mehra
 
 🚀 **Full Stack Developer** with over 4 years of experience  
-🌐 My Own Website : [mindsetlearner.com](https://www.mindsetlearner.com)  
+🌐 My website : [mindsetlearner.com](https://www.mindsetlearner.com)  
 📫 saurabhmehra359@gmail.com  
 📍 Haldwani, Nainital, Uttarakhand (263139)  
 📞 +91-7409065123  
