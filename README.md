@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Saurabh Mehra
 
 🚀 **Full Stack Developer** with over 4 years of experience  
-🌐 [mindsetlearner.com](https://www.mindsetlearner.com)  
+🌐 My Own Website : [mindsetlearner.com](https://www.mindsetlearner.com)  
 📫 saurabhmehra359@gmail.com  
 📍 Haldwani, Nainital, Uttarakhand (263139)  
 📞 +91-7409065123  
@@ -46,16 +46,16 @@ Well-qualified Full Stack Developer familiar with a wide range of programming ut
 ## 💻 Projects
 
 ### 🎟 Ticket Xpress Cloud (ASP.NET Core + Angular)  
-Migrated monolithic architecture to microservices for smooth voucher transactions between merchants and clients.
+A revised and In-development Project of Ticket Xpress, migrating from monolithic to microservice architecture. TXC is a group of applications working together to provide smooth transactions of vouchers between merchants and clients.
 
 ### 🏭 SmartFactory (ASP.NET Core + React.js)  
-Factory monitoring app for Avient Corporation to track real-time production processes.
+SmartFactory project is designed to interact with Factory environment of Avient Corporation and to keep track of the on- going process of each and every product. Avient Corporation is a global manufacturer of specialized polymer materials.
 
 ### 🏥 NaviHealth (ASP.NET Core + Angular)  
-Post-acute care management system enhancing care coordination using data-driven solutions.
+NaviHealth is a post-acute care manager working with health care organizations, to lower post-acute care costs by empowering the patient, improving care coordination, and using a proven data and technology-driven approach to better assist patients and their families through the entire continuum of post-acute care.
 
 ### 💊 Mail Order Pharmacy (ASP.NET Core MVC + Azure)  
-Online mail-order pharmacy service with JWT-secured APIs and Kubernetes-based deployment on Azure.
+Online Pharmacy Project providing mail-order service. Project Contains Four API’s and a MVC service for Client Interaction. Every API is Jwt secured Authorized. Project was also deployed in azure cloud service, each api containerized and deployed on azure container registry with kubernetes service as orchestration system.
 
 ### 📈 Population Prediction  
 Machine learning project focused on forecasting population growth.
